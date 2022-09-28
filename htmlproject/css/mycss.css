@@ -1,0 +1,31 @@
+.flex{
+    display:flex;
+    list-style:none;
+}
+
+nav ul li{
+    margin: 15px;
+}
+nav ul li a{
+    text-decoration: none;
+    display: block;
+    /* border: 2px solid red; */
+    padding: 10px;
+    color: fuchsia;
+}
+
+nav{
+   border-bottom: 2px solid tomato;
+}
+
+nav ul li a:hover{
+    border-bottom: 3px solid black;
+}
+
+#FIP{
+    text-decoration: underline 2px solid gold;
+}
+
+/* .active{
+    border-bottom: 2px solid green;
+} */
